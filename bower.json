@@ -1,0 +1,38 @@
+{
+  "name": "testreportingrepo",
+  "version": "15.2.9",
+  "description": "test file set",
+  "moduleType": [
+    "globals"
+  ],
+  "main": ["js\dx-designer.min.js", "js\report-designer.min.js", "js\web-document-viewer.min.js", "css/web-document-viewer-dark.min.css", "css/web-document-viewer-light.min.css", "css/report-designer-dark.min.css", "css/report-designer-light.min.css"],
+  "authors": [
+    { "name": "Developer Express Inc.", "email": "support@devexpress.com", "homepage": "https://www.devexpress.com" }
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Kochkin/testrepo.git"
+  },
+  "license": "https://github.com/Kochkin/testrepo/blob/master/LICENSE"
+  "homepage": "https://www.devexpress.com/Subscriptions/Reporting",
+  "keywords": [ "reporting", "document viewer"],
+  "dependencies": {
+    "jquery": "1.11.3",
+    "jquery-ui": "1.11.4",
+    "knockout": "latest",
+    "globalize": "0.1.1"
+    "bower-devextreme": "latest"
+  },
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "install": {
+    "path": "lib"
+  }
+}
+
+
+
+
+
