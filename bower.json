@@ -29,5 +29,8 @@
   ],
   "install": {
     "path": "lib"
+  },
+  "resolutions":{
+  "jquery":"<3.1"
   }
 }
