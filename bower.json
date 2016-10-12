@@ -24,8 +24,7 @@
     "devextreme": "16.1.5"
   },
   "ignore": [
-    "node_modules",
-    "bower_components"
+    "node_modules"
   ],
   "install": {
     "path": "lib"
